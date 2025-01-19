@@ -20,3 +20,4 @@ class ClacTests(SimpleTestCase):
         res = calc.substract(4,3)
 
         self.assertEqual(res, 1)
+        
